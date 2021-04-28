@@ -1,0 +1,21 @@
+C:\Program Files\JYT\Service\WebServiceUtility.dll
+C:\Program Files\JYT\Service\WebServiceUtility.pdb
+E:\Source\TheMostImportantIsBackup\北京口腔医院\JYT\WebServiceUtility\WebServiceUtility\obj\Debug\WebServiceUtility.csprojAssemblyReference.cache
+E:\Source\TheMostImportantIsBackup\北京口腔医院\JYT\WebServiceUtility\WebServiceUtility\obj\Debug\WebServiceUtility.csproj.CoreCompileInputs.cache
+E:\Source\TheMostImportantIsBackup\北京口腔医院\JYT\WebServiceUtility\WebServiceUtility\obj\Debug\WebServiceUtility.dll
+E:\Source\TheMostImportantIsBackup\北京口腔医院\JYT\WebServiceUtility\WebServiceUtility\obj\Debug\WebServiceUtility.pdb
+E:\DentistGit\WebserviceProxy\src\WebServiceUtility\obj\Debug\WebServiceUtility.csprojAssemblyReference.cache
+E:\DentistGit\WebserviceProxy\src\WebServiceUtility\obj\Debug\WebServiceUtility.csproj.CoreCompileInputs.cache
+E:\DentistGit\WebserviceProxy\src\WebServiceUtility\obj\Debug\WebServiceUtility.dll
+E:\DentistGit\WebserviceProxy\src\WebServiceUtility\obj\Debug\WebServiceUtility.pdb
+E:\DentistGit\EMSDaySoapInterface\src\EMSSoapInterface\WebServiceUtility\obj\Debug\WebServiceUtility.csprojAssemblyReference.cache
+E:\DentistGit\EMSDaySoapInterface\src\EMSSoapInterface\WebServiceUtility\obj\Debug\WebServiceUtility.csproj.CoreCompileInputs.cache
+E:\DentistGit\EMSDaySoapInterface\src\EMSSoapInterface\WebServiceUtility\obj\Debug\WebServiceUtility.dll
+E:\DentistGit\EMSDaySoapInterface\src\EMSSoapInterface\WebServiceUtility\obj\Debug\WebServiceUtility.pdb
+E:\Github\soapproxy_framework\WebServiceUtility\obj\Debug\WebServiceUtility.csproj.CoreCompileInputs.cache
+E:\Github\soapproxy_framework\WebServiceUtility\obj\Debug\WebServiceUtility.dll
+E:\Github\soapproxy_framework\WebServiceUtility\obj\Debug\WebServiceUtility.pdb
+E:\Github\soapproxy_framework\src\WebServiceUtility\obj\Debug\WebServiceUtility.csprojAssemblyReference.cache
+E:\Github\soapproxy_framework\src\WebServiceUtility\obj\Debug\WebServiceUtility.csproj.CoreCompileInputs.cache
+E:\Github\soapproxy_framework\src\WebServiceUtility\obj\Debug\WebServiceUtility.dll
+E:\Github\soapproxy_framework\src\WebServiceUtility\obj\Debug\WebServiceUtility.pdb
